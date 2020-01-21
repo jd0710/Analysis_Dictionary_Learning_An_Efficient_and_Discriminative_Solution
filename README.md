@@ -1,5 +1,5 @@
 # Analysis Dictionary Learning: An Efficient and Discriminative Solution
-This repository contains the demo and MATLAB codes for our conference paper: "[Analysis Dictionary Learning: An Efficient and Discriminative Solution](https://arxiv.org/abs/1903.03058)" by [Wen Tang](https://research.ece.ncsu.edu/vissta/wen-tang/), Ashkan Panahi, Hamid Krim and Liyi Dai, which is published in ICASSP 2019.
+This repository contains the demo and MATLAB codes for our conference paper: "[Analysis Dictionary Learning: An Efficient and Discriminative Solution](https://arxiv.org/abs/1903.03058)" by [Wen Tang](https://www.researchgate.net/profile/Wen_Tang24), Ashkan Panahi, Hamid Krim and Liyi Dai, which is published in ICASSP 2019.
 
 ### Citation
 If you think our project is useful, please consider citing it:
